@@ -33,7 +33,7 @@
 </ul>
 
 ## 2. 패키지 구조
-<p><img src="md/3.PNG" alt="Alt"></p>
+<p><img src="md/pacakge.PNG" alt="Alt"></p>
 AvgGraph.py : 그래프 생성 클래스<br>
 FinClawer.py : 네이버 금융정보 크롤링 클래스<br>
 FinLearning.py : 인공지능 다중분류 클래스

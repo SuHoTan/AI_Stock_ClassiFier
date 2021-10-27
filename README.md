@@ -33,7 +33,7 @@
 </ul>
 
 ## 2. 패키지 구조
-<p><img src="md/패키지구조.PNG" alt="Alt"></p>
+<p><img src="md/pacakge.PNG" alt="Alt"></p>
 AvgGraph.py : 그래프 생성 클래스<br>
 FinClawer.py : 네이버 금융정보 크롤링 클래스<br>
 FinLearning.py : 인공지능 다중분류 클래스
@@ -43,7 +43,7 @@ DeeplearningModel 폴더 : 학습데이터, 테스트데이터, 학습된 모델
 
 
 ## 3. 데이터 분석
-<p><img src="md/분석결과.PNG" alt="Alt"></p>
+<p><img src="md/result.PNG" alt="Alt"></p>
 영웅문HTS에서 제공한 주식 분류별 포트폴리오 데이터를 활용하였습니다.
 
 부채비율, 시가 배당률, 시가총액 세 값에서 유의미한 결과를 내는 것을 시각화 분석으로 확인하였습니다.

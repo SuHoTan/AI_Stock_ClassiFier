@@ -51,6 +51,7 @@ DeeplearningModel 폴더 : 학습데이터, 테스트데이터, 학습된 모델
 
 ## 4.  모델 구축 & 모델검증
 <p><img src="md/6.PNG" alt="Alt"></p>
+여러 하이퍼 파라미터와 손실함수을 조합했을 때, 위와 같은 노드구성과 crossentropy 손실함수를 사용했을 때 결과값이 가장 좋았기에 위와 같은 구성을 사용하였습니다. 
 <hr>
 <p><img src="md/5.PNG" alt="Alt"></p>
 

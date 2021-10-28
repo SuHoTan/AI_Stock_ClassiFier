@@ -1,5 +1,5 @@
 ﻿## 주식 다중분류기 - 1인 Toy 프로젝트
-파이썬 언어와 Keras 라이브러리를  이용해서 주식 개별종목을 Multi Classfy하는 학습목적의 Toy 프로젝트입니다.
+파이썬 언어와 Keras 라이브러리를  이용해서 주식 개별종목을 Multi Classify하는 학습목적의 Toy 프로젝트입니다.
 
 1. 성장주
 2. 가치주
@@ -41,7 +41,7 @@ StockStorterMain.py : GUI 생성을 담당하고 Main메소드가 존재하는 �
 DeeplearningModel 폴더 : 학습데이터, 테스트데이터, 학습된 모델 존재<br>
 
 
-## 3. 데이터 수집 & 데이터 분석  & 모델검증
+## 3. 데이터 수집 & 데이터 분석
 <p><img src="md/4.PNG" alt="Alt"></p>
 <hr>
 <p><img src="md/result.PNG" alt="Alt"></p>
